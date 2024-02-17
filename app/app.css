@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(238, 255, 255);
+}
+
+.deleteButton {
+  display: inline;
+}
+
+/* .wrapPage {
+  display: flex;
+} */
+
+input:invalid {
+  border: solid red;
+}
+
+::-webkit-validation-bubble-message {
+  display: block;
+}
